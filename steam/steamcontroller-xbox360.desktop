@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Exec=steamcontroller.sh xbox360 
+Icon=input-keyboard
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Utility;X-XFCE;
+Name=Steamcontroller (Desktop)
+Comment=Load steamcontroller driver in xbox 360 mode
